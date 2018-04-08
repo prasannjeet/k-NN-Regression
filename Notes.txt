@@ -1,0 +1,10 @@
+Submitted By:
+Prasannjeet Singh
+
+Note: 
+
+The textual answers are embedded in the Exercise(1-4).m files, and can be viewed when these files are published.
+
+I implemented the functions in external files, as I was finding it difficult to embed it inside the Exercise(1-4).m files. That way, the plotted graphs and system outputs were displayed in wrong sections, making the solution un-readable.
+
+Few parts take a bit longer (15-20 seconds) to run, as I didn't know how to work without loops while working with the initial exercises.
